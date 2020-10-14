@@ -19,3 +19,5 @@ Instructions:
     - candy_tutorial_with_code.R includes some code to get you started, and you will need to fill in the blanks
 - You can access the full solution in candy_solution.R
 - You can download files by either cloning this repository to your computer via RStudio (https://happygitwithr.com/rstudio-git-github.html), or you can simply download all files by clicking the green "Code" button, and selecting "Download ZIP"
+
+Questions? Email statlab@yale.edu 
